@@ -1,0 +1,23 @@
+- name: Azure
+  href: azure.md
+- name: Automation
+  href: automation/automation.md
+  items:
+  - name: Runbooks
+    href: automation/runbooks/runbooks.md
+    items:
+    - name: Jobs
+      href: automation/runbooks/jobs/jobs.md
+    - name: Schedules
+      href: automation/runbooks/schedules/schedules.md
+    - name: Webhooks
+      href: automation/runbooks/webhooks/webhooks.md
+  - name: Variables
+    href: automation/variables/variables.md
+- name: Functions
+  href: functions/functions.md
+  items:
+  - name: Authentication
+    href: functions/authentication/authentication.md
+  - name: Testing
+    href: functions/testing/testing.md

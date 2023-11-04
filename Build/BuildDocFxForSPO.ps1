@@ -4,7 +4,7 @@ if (!$checkPnPSession) {
 
     if (!(Test-Path -Path .\Build\SiteUrl.txt)) {
 
-        $siteUrl = Read-Host "Enter or paste your SharePoint Online target site url"
+        $siteUrl = Read-Host "https://mahgwe.sharepoint.com"
 
         Set-Content -Path .\Build\SiteUrl.txt -Value $siteUrl -NoNewline
 

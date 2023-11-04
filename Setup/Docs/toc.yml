@@ -1,0 +1,14 @@
+- name: Home
+  href: articles/
+- name: Azure
+  href: articles/azure/
+- name: Microsoft 365
+  href: articles/microsoft-365/
+- name: PowerShell
+  href: articles/powershell/
+- name: DocFx
+  href: articles/docfx/
+- name: Windows
+  href: articles/windows/
+- name: Call Flows
+  href: articles/call-flows/

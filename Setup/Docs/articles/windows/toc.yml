@@ -1,0 +1,19 @@
+- name: Windows
+  href: windows.md
+- name: Windows 11
+  href: windows-11/windows-11.md
+  items:
+  - name: OS
+    href: windows-11/os/os.md
+  - name: Apps
+    href: windows-11/apps/apps.md
+    items:
+    - name: Windows Terminal
+      href: windows-11/apps/windows-terminal/windows-terminal.md
+    - name: PowerToys
+      href: windows-11/apps/powertoys/powertoys.md
+- name: Windows 10
+  href: windows-10/windows-10.md
+  items:
+  - name: Update
+    href: windows-10/update/update.md

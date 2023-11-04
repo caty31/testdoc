@@ -1,0 +1,27 @@
+- name: Microsoft 365
+  href: microsoft-365.md
+- name: Teams
+  href: teams/teams.md
+  items:
+  - name: Meetings
+    href: teams/meetings/meetings.md
+    items:
+    - name: Join Meeting
+      href: teams/meetings/join-meeting/join-meeting.md
+    - name: Organize Meeting
+      href: teams/meetings/organize-meeting/organize-meeting.md
+  - name: Collaboration
+    href: teams/collaboration/collaboration.md
+  - name: Voice
+    href: teams/voice/voice.md
+    items:
+    - name: Calling Plans
+      href: teams/voice/calling-plans/calling-plans.md
+    - name: Operator Connect
+      href: teams/voice/operator-connect/operator-connect.md
+    - name: Direct Routing
+      href: teams/voice/direct-routing/direct-routing.md
+- name: SharePoint
+  href: sharepoint/sharepoint.md
+- name: Exchange
+  href: exchange/exchange.md

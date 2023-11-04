@@ -1,0 +1,13 @@
+- name: PowerShell
+  href: powershell.md
+- name: Modules
+  href: modules/modules.md
+- name: Scripts
+  href: scripts/scripts.md
+- name: IDEs
+  href: ides/ides.md
+  items:
+  - name: VS Code
+    href: ides/vs-code/vs-code.md
+  - name: PowerShell ISE
+    href: ides/powershell-ise/powershell-ise.md
